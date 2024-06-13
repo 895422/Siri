@@ -1,0 +1,25 @@
+2024-06-05 23:28:01.794 [info] Test server listening.
+2024-06-05 23:28:01.794 [info] Python interpreter path: /bin/python
+2024-06-05 23:28:01.811 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-05 23:28:01.811 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-05 23:28:02.081 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-05 23:28:02.081 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-05 23:28:02.081 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-05 23:28:02.081 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-05 23:28:02.081 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-05 23:28:02.611 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-05 23:28:02.612 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-05 23:28:04.008 [info] Starting Jedi language server for punuguchandana.
+2024-06-05 23:28:56.500 [info] Discover tests for workspace name: punuguchandana - uri: /home/punuguchandana/frontend/app.py
+2024-06-05 23:29:24.846 [info] Discover tests for workspace name: punuguchandana - uri: /home/punuguchandana/.codeoss/data/User/History/44695d53/4wqt.py
+2024-06-05 23:34:56.842 [info] Discover tests for workspace name: punuguchandana - uri: /home/punuguchandana/myapp.py
+2024-06-05 23:36:22.818 [info] Running installed packages checker:  python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/installed_check.py /home/punuguchandana/frontend/requirements.txt
+2024-06-05 23:36:41.968 [info] Running installed packages checker:  python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/installed_check.py /home/punuguchandana/frontend/requirements.txt
+2024-06-05 23:40:45.745 [info] Discover tests for workspace name: punuguchandana - uri: /home/punuguchandana/backend/app.py
+2024-06-05 23:41:15.667 [info] Discover tests for workspace name: punuguchandana - uri: /home/punuguchandana/.codeoss/data/User/History/-6678ccef/GCaQ.py
+2024-06-05 23:43:18.945 [info] Running installed packages checker:  python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/installed_check.py /home/punuguchandana/backend/requirements.txt
+2024-06-05 23:43:53.155 [info] Running installed packages checker:  python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/installed_check.py /home/punuguchandana/backend/requirements.txt
+2024-06-06 00:08:12.891 [info] Running installed packages checker:  python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/installed_check.py /home/punuguchandana/backend/requirements.txt
+2024-06-06 00:08:14.028 [info] Running installed packages checker:  python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/installed_check.py /home/punuguchandana/backend/requirements.txt
+2024-06-06 00:42:31.377 [info] Running installed packages checker:  python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/installed_check.py /home/punuguchandana/backend/requirements.txt
+2024-06-06 00:42:34.815 [info] Running installed packages checker:  python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/pythonFiles/installed_check.py /home/punuguchandana/frontend/requirements.txt

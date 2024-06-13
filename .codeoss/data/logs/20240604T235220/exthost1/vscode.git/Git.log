@@ -1,0 +1,83 @@
+2024-06-04 23:52:30.923 [info] Log level: Info
+2024-06-04 23:52:30.923 [info] Validating found git in: "git"
+2024-06-04 23:52:30.923 [info] Using git "2.34.1" from "git"
+2024-06-04 23:52:30.923 [info] > git rev-parse --show-toplevel [6ms]
+2024-06-04 23:52:30.923 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:30.924 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-04 23:52:30.924 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:30.935 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-04 23:52:30.935 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:30.945 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-04 23:52:30.945 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:30.962 [info] > git rev-parse --show-toplevel [6ms]
+2024-06-04 23:52:30.962 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:30.978 [info] > git rev-parse --show-toplevel [6ms]
+2024-06-04 23:52:30.978 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:30.997 [info] > git rev-parse --show-toplevel [11ms]
+2024-06-04 23:52:30.997 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:31.008 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-04 23:52:31.008 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:31.019 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-04 23:52:31.019 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:31.029 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-04 23:52:31.029 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:31.039 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-04 23:52:31.039 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:31.051 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-04 23:52:31.051 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:31.075 [info] > git rev-parse --show-toplevel [16ms]
+2024-06-04 23:52:31.089 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-06-04 23:52:31.103 [info] Open repository: /home/punuguchandana/jenkins-vm
+2024-06-04 23:52:31.124 [info] > git config --get commit.template [10ms]
+2024-06-04 23:52:31.125 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-04 23:52:31.125 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:31.155 [info] > git rev-parse --show-toplevel [14ms]
+2024-06-04 23:52:31.156 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:31.204 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [72ms]
+2024-06-04 23:52:31.251 [info] > git status -z -uall [33ms]
+2024-06-04 23:52:31.303 [info] > git config --get commit.template [4ms]
+2024-06-04 23:52:31.314 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-06-04 23:52:31.327 [info] > git status -z -uall [5ms]
+2024-06-04 23:52:31.700 [info] > git check-ignore -v -z --stdin [6ms]
+2024-06-04 23:52:33.654 [info] > git rev-parse --show-toplevel [246ms]
+2024-06-04 23:52:33.654 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-04 23:52:37.085 [info] > git rev-parse --show-toplevel [8ms]
+2024-06-04 23:52:37.086 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-05 00:01:23.771 [info] > git rev-parse --show-toplevel [6ms]
+2024-06-05 00:01:23.771 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-05 00:03:58.933 [info] > git rev-parse --show-toplevel [7ms]
+2024-06-05 00:03:58.934 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-05 00:05:55.407 [info] > git rev-parse --show-toplevel [7ms]
+2024-06-05 00:05:55.407 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-05 00:06:09.372 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-05 00:06:09.372 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-05 00:24:33.087 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-05 00:24:33.106 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-06-05 00:24:33.117 [info] Open repository: /home/punuguchandana/frontend/jenkins-vm
+2024-06-05 00:24:33.155 [info] > git config --get commit.template [18ms]
+2024-06-05 00:24:33.156 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-06-05 00:24:33.178 [info] > git status -z -uall [4ms]
+2024-06-05 00:24:33.226 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-06-05 00:24:33.227 [info] > git config --get commit.template [21ms]
+2024-06-05 00:24:33.247 [info] > git status -z -uall [3ms]
+2024-06-05 00:24:33.743 [info] > git check-ignore -v -z --stdin [2ms]

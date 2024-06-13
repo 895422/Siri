@@ -1,0 +1,43 @@
+2024-05-29 22:49:25.104 [info] 
+
+
+
+
+2024-05-29 22:49:25.104 [info] Extension host agent started.
+2024-05-29 22:49:25.140 [info] Started initializing default profile extensions in extensions installation folder. file:///home/punuguchandana/.codeoss/extensions
+2024-05-29 22:49:25.160 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/punuguchandana/.codeoss/extensions
+2024-05-29 22:49:28.495 [info] [127.0.0.1][1482bdfa][ManagementConnection] New connection established.
+2024-05-29 22:49:28.526 [info] [127.0.0.1][4eb08bdb][ExtensionHostConnection] New connection established.
+2024-05-29 22:49:31.804 [info] [127.0.0.1][4eb08bdb][ExtensionHostConnection] <1130> Launched Extension Host Process.
+2024-05-29 22:57:09.570 [info] [127.0.0.1][1482bdfa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-29 22:57:09.663 [info] [127.0.0.1][4eb08bdb][ExtensionHostConnection] <1130> Extension Host Process exited with code: 0, signal: null.
+2024-05-29 23:05:48.966 [info] [127.0.0.1][2166119d][ManagementConnection] New connection established.
+2024-05-29 23:05:49.018 [info] [127.0.0.1][ac090f01][ExtensionHostConnection] New connection established.
+2024-05-29 23:05:49.037 [info] [127.0.0.1][ac090f01][ExtensionHostConnection] <2846> Launched Extension Host Process.
+2024-05-29 23:53:45.355 [info] [127.0.0.1][ac090f01][ExtensionHostConnection] The client has reconnected.
+2024-05-29 23:53:45.610 [info] [127.0.0.1][2166119d][ManagementConnection] The client has reconnected.
+2024-05-30 00:12:43.329 [info] [127.0.0.1][8efaa5b3][ManagementConnection] New connection established.
+2024-05-30 00:12:43.522 [info] [127.0.0.1][a6ccb3be][ExtensionHostConnection] New connection established.
+2024-05-30 00:12:43.535 [info] [127.0.0.1][a6ccb3be][ExtensionHostConnection] <6529> Launched Extension Host Process.
+2024-05-30 00:13:21.080 [warning] RequestStore#acceptReply was called without receiving a matching request 53
+2024-05-30 00:13:21.081 [warning] RequestStore#acceptReply was called without receiving a matching request 54
+2024-05-30 00:13:21.082 [warning] RequestStore#acceptReply was called without receiving a matching request 55
+2024-05-30 00:13:21.082 [warning] RequestStore#acceptReply was called without receiving a matching request 56
+2024-05-30 00:13:21.082 [warning] RequestStore#acceptReply was called without receiving a matching request 57
+2024-05-30 00:13:21.083 [warning] RequestStore#acceptReply was called without receiving a matching request 58
+2024-05-30 00:13:21.083 [warning] RequestStore#acceptReply was called without receiving a matching request 59
+2024-05-30 00:13:21.083 [warning] RequestStore#acceptReply was called without receiving a matching request 60
+2024-05-30 00:13:21.084 [warning] RequestStore#acceptReply was called without receiving a matching request 61
+2024-05-30 00:13:21.084 [warning] RequestStore#acceptReply was called without receiving a matching request 62
+2024-05-30 00:13:21.085 [warning] RequestStore#acceptReply was called without receiving a matching request 63
+2024-05-30 00:13:21.085 [warning] RequestStore#acceptReply was called without receiving a matching request 64
+2024-05-30 00:13:21.086 [warning] RequestStore#acceptReply was called without receiving a matching request 65
+2024-05-30 00:38:38.544 [info] [127.0.0.1][a6ccb3be][ExtensionHostConnection] The client has reconnected.
+2024-05-30 00:38:39.087 [info] [127.0.0.1][8efaa5b3][ManagementConnection] The client has reconnected.
+2024-05-30 00:38:39.138 [info] [127.0.0.1][2166119d][ManagementConnection] The client has reconnected.
+2024-05-30 00:38:43.981 [info] [127.0.0.1][ac090f01][ExtensionHostConnection] The client has reconnected.
+2024-05-30 01:49:26.189 [info] [127.0.0.1][2166119d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-30 01:49:26.302 [info] [127.0.0.1][ac090f01][ExtensionHostConnection] <2846> Extension Host Process exited with code: 0, signal: null.
+2024-05-30 01:49:32.713 [info] [127.0.0.1][556b9c12][ManagementConnection] New connection established.
+2024-05-30 01:49:32.943 [info] [127.0.0.1][4a3698d4][ExtensionHostConnection] New connection established.
+2024-05-30 01:49:32.960 [info] [127.0.0.1][4a3698d4][ExtensionHostConnection] <9182> Launched Extension Host Process.

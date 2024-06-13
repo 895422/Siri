@@ -1,0 +1,12 @@
+2024-06-12 23:26:53.392 [info] Test server listening.
+2024-06-12 23:26:53.392 [info] Python interpreter path: /bin/python
+2024-06-12 23:26:53.812 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 23:26:53.812 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 23:26:53.988 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 23:26:53.988 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 23:26:53.988 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 23:26:53.988 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 23:26:53.988 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-06-12 23:26:55.308 [info] Starting Jedi language server for punuguchandana.
+2024-06-12 23:43:41.108 [info] Discover tests for workspace name: punuguchandana - uri: /home/punuguchandana/chandana/backend/appdb.py
+2024-06-12 23:47:24.888 [info] Discover tests for workspace name: punuguchandana - uri: /home/punuguchandana/chandana/backend/appdb.py

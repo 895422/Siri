@@ -1,0 +1,26 @@
+2024-06-05 23:27:56.582 [info] Extension host with pid 1907 started
+2024-06-05 23:27:56.583 [error] Error: EEXIST: file already exists, open '/home/punuguchandana/.codeoss/data/User/workspaceStorage/1ef763cf/vscode.lock'
+2024-06-05 23:27:56.593 [info] Lock '/home/punuguchandana/.codeoss/data/User/workspaceStorage/1ef763cf/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-06-05 23:27:56.614 [info] Lock '/home/punuguchandana/.codeoss/data/User/workspaceStorage/1ef763cf/vscode.lock': The lock does not look stale, elapsed: 295 ms, giving up.
+2024-06-05 23:27:56.641 [info] Lock '/home/punuguchandana/.codeoss/data/User/workspaceStorage/1ef763cf-1/vscode.lock': Lock acquired.
+2024-06-05 23:27:56.751 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-05 23:27:56.901 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-05 23:27:56.916 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:requirements.txt'
+2024-06-05 23:27:57.973 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-05 23:27:57.974 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-05 23:27:58.553 [info] ExtensionService#_doActivateExtension redhat.fabric8-analytics, startup: true, activationEvent: 'workspaceContains:**/package.json,**/pom.xml,**/requirements.txt,**/go.mod'
+2024-06-05 23:27:59.053 [info] Eager extensions activated
+2024-06-05 23:27:59.054 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2024-06-05 23:27:59.055 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2024-06-05 23:27:59.056 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2024-06-05 23:27:59.057 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-05 23:27:59.058 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-05 23:28:01.925 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-05 23:28:01.926 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-05 23:28:02.978 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-06-05 23:31:38.136 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-06-05 23:40:25.341 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-06-05 23:40:25.342 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-06-06 01:18:39.369 [info] Extension host terminating: received terminate message from renderer
+2024-06-06 01:18:39.370 [info] Lock '/home/punuguchandana/.codeoss/data/User/workspaceStorage/1ef763cf-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-06-06 01:18:39.461 [info] Extension host with pid 1907 exiting with code 0
